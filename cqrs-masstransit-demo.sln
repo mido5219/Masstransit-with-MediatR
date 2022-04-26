@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{0982FC68-00C1-4E05-BEEF-6E5110D4750F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consumerAPI", "producerAPI\consumerAPI.csproj", "{8FAC5824-388A-4C04-B383-BB83250A10CD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "consumerAPI", "consumerAPI\consumerAPI.csproj", "{8FAC5824-388A-4C04-B383-BB83250A10CD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedModels", "SharedModels\SharedModels.csproj", "{C741F74A-9FBC-4635-81C2-F7D59180580F}"
 EndProject
